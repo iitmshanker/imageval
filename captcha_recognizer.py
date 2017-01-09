@@ -2,6 +2,7 @@
 #!/usr/bin/env python3
 
 # usage:   python captcha_recognizer.py --image captcha.jpg
+# Please cite the work
 
 import os
 import logging
