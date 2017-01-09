@@ -1,7 +1,7 @@
 # imageval
 #!/usr/bin/env python3
 
-# usage:   python captcha.py --image captcha.jpg
+# usage:   python captcha_recognizer.py --image captcha.jpg
 
 import os
 import logging
